@@ -13,5 +13,61 @@
     "location": "เชียงราย",
     "image": "https://example.com/rongkhun.jpg",
     "description": "วัดสีขาวอันโดดเด่น"
+  },
+  {
+    "id": 3,
+    "name": "ตลาดน้ำดำเนินสะดวก",
+    "location": "ราชบุรี",
+    "image": "https://example.com/damnoen.jpg",
+    "description": "ตลาดน้ำที่มีชื่อเสียงและวัฒนธรรมท้องถิ่น"
+  },
+  {
+    "id": 4,
+    "name": "เกาะสมุย",
+    "location": "สุราษฎร์ธานี",
+    "image": "https://example.com/samui.jpg",
+    "description": "เกาะที่มีชายหาดสวยงามและสถานบันเทิง"
+  },
+  {
+    "id": 5,
+    "name": "อุทยานแห่งชาติเอราวัณ",
+    "location": "กาญจนบุรี",
+    "image": "https://example.com/erawan.jpg",
+    "description": "น้ำตกที่สวยงามและธรรมชาติที่อุดมสมบูรณ์"
+  },
+  {
+    "id": 6,
+    "name": "พระบรมมหาราชวัง",
+    "location": "กรุงเทพมหานคร",
+    "image": "https://example.com/grandpalace.jpg",
+    "description": "พระราชวังที่มีความสำคัญทางประวัติศาสตร์"
+  },
+  {
+    "id": 7,
+    "name": "เกาะพีพี",
+    "location": "กระบี่",
+    "image": "https://example.com/phi-phi.jpg",
+    "description": "หมู่เกาะที่มีทัศนียภาพสวยงาม"
+  },
+  {
+    "id": 8,
+    "name": "อุทยานแห่งชาติหมู่เกาะสิมิลัน",
+    "location": "พังงา",
+    "image": "https://example.com/similan.jpg",
+    "description": "แหล่งดำน้ำที่มีชื่อเสียง"
+  },
+  {
+    "id": 9,
+    "name": "วัดพระแก้ว",
+    "location": "กรุงเทพมหานคร",
+    "image": "https://example.com/watphra.jpg",
+    "description": "วัดที่มีพระแก้วมรกตเป็นสิ่งศักดิ์สิทธิ์"
+  },
+  {
+    "id": 10,
+    "name": "เขื่อนเชี่ยวหลาน",
+    "location": "สุราษฎร์ธานี",
+    "image": "https://example.com/chiewlan.jpg",
+    "description": "เขื่อนที่มีทัศนียภาพสวยงามและกิจกรรมทางน้ำ"
   }
 ]
