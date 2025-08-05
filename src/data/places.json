@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": 1,
+    "name": "อ่าวมาหยา",
+    "location": "กระบี่",
+    "image": "https://example.com/maya.jpg",
+    "description": "ชายหาดที่สวยงามในหมู่เกาะพีพี"
+  },
+  {
+    "id": 2,
+    "name": "วัดร่องขุ่น",
+    "location": "เชียงราย",
+    "image": "https://example.com/rongkhun.jpg",
+    "description": "วัดสีขาวอันโดดเด่น"
+  }
+]
